@@ -1,0 +1,20 @@
+{
+  "name": "math-builder",
+  "version": "0.1.0+build.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.7"
+  },
+  "resolutions": {
+    "@babel/preset-env": "^7.15.7"
+  },
+  "keywords": []
+}

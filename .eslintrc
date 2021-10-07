@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "no-native-reassign": ["warn", { "exceptions": ["console"] }]
+  }
+}
